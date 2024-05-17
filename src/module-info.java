@@ -13,6 +13,7 @@ public class vowels {
 		
 			System.out.println(stringContainsVowels("Hello")); // true
 			System.out.println(stringContainsVowels("TV")); // false
+			System.out.println(stringContainsVowels("12345678")); // new
 	}
 module Hello {
 	System.out.println("hii");
