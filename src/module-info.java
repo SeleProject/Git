@@ -24,6 +24,10 @@ public class vowels {
 				System.out.println(stringContainsVowels("tgtgtg")); // true
 				System.out.println(stringContainsVowels("uuuuu")); // false
 				System.out.println(stringContainsVowels("77777")); // new
+				System.out.println(stringContainsVowels("1")); // new1
+				System.out.println(stringContainsVowels("22")); // new2
+				System.out.println(stringContainsVowels("333")); // new3
+				System.out.println(stringContainsVowels("4444")); // new4
 		}
 module Hello {
 	System.out.println("hii");
